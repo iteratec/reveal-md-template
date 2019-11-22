@@ -1,5 +1,6 @@
 {
     "transition": "none",
     "slideNumber": true,
-    "pdfSeparateFragments": false
+    "pdfSeparateFragments": false,
+    "display": "flex"
 }

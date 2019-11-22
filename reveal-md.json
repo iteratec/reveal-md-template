@@ -1,4 +1,4 @@
 {
-    "theme": "solarized",
-    "css": "./theme/custom.css"
+    "theme": "./theme/iteratec.css",
+    "css": ["./theme/custom.css"]
 }
