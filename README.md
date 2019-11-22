@@ -1,5 +1,7 @@
 # Slides
 
+Demo: https://iteratec.github.io/reveal-md-template
+
 ## Usage
 Type a `?` in the presentation to open a dialog listing the available shortcuts.
 
